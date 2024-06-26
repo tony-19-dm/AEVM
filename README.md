@@ -2,13 +2,13 @@
 
 ## Команды для использования:
 
-make
+make,
 make r
 
-cd simplebasic
+cd simplebasic,
 ./sbt pow.sb pow.sa test.o
 
-cd simpleassembler
+cd simpleassembler,
 ./sat pow.sa test.o
 
 make clean
